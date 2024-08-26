@@ -1,0 +1,14 @@
+{
+  "modid": "DefinitelyNot",
+  "name": "Definitely Not",
+  "author_list": [
+    "Axlefublr"
+  ],
+  "description": "Choose which act 3 bosses you definitely don't want to fight",
+  "version": "0.0.1",
+  "dependencies": [
+    "basemod"
+  ],
+  "sts_version": "03-29-2018",
+  "mts_version": "3.14.1"
+}
